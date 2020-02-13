@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="result_text"> %1$s = %2$s </string>
+    <string name="str_result"> result </string>
+    <string name="str_hint_enter_expression">Enter Expression</string>
+    <string name="str_hint_expression">Expression</string>
+    <string name="str_btn_calculate_text">Calculate  </string>
+
+    <string name="error_exception_zero">Expression Cannot be divide by zero</string>
+    <string name="error_empty"> </string>
+    <string name="error_exception_empty_text">Please Enter expression</string>
+    <string name="error_exception_general">Invalid expression. Please Enter a Valid Expression</string>
+</resources>
